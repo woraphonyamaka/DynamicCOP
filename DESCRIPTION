@@ -1,0 +1,10 @@
+Package: DynamicCOP
+Type: Package
+Title: Dynamic Copula
+Version: 0.1.0
+Author: Woraphon Yamaka
+Maintainer: The package maintainer <woraphon.econ@gmail.com>
+Description: The dynamic copula model with exogenous variable
+License: COEE.6
+Encoding: UTF-8
+LazyData: true
