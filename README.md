@@ -4,6 +4,6 @@
 
 library(devtools)
 
-install_github("woraphonyamaka/DynamicCOP", force=true)
+install_github("woraphonyamaka/DynamicCOP", force=TRUE)
 
-library(/DynamicCOP)
+library(DynamicCOP)
